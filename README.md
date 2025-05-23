@@ -40,5 +40,44 @@ This project was created for the High Distinction task **"Something Awesome"** i
 ---
 
 ## 📂 File Structure
+├── main.cpp // Program entry point and menu
+├── fighter.cpp/.h // Fighter logic, XP, belts, career system
+├── fight.cpp/.h // Tournament system and fight engine
+├── storage.cpp/.h // Encrypted save/load functionality
+├── utilities.cpp/.h // Input handling, progress bars, formatting
+├── fighters.txt // Encrypted fighter data file
+
+
+---
+
+## 🛠️ How to Run
+
+1. **Install SplashKit**: [https://www.splashkit.io/](https://www.splashkit.io/)
+2. **Compile with:**
+   ```bash
+clang++ main.cpp fighter.cpp fight.cpp storage.cpp utilities.cpp -l SplashKit -o mma
+
+
+
+| Feature                 | Description                                              |
+| ----------------------- | -------------------------------------------------------- |
+| 🔐 Encrypted save/load  | Secure file I/O with XOR encryption and error handling   |
+| 🎓 Career progression   | XP-based leveling and title assignment with progress bar |
+| 📊 Leaderboard system   | Win ratio calculation and dynamic sorting                |
+| 🎨 Terminal UX design   | Structured formatting, delays, and output polish         |
+| 🧱 Modular architecture | Separated concerns across `.cpp/.h` files                |
+
+
+📽️ Video Demo
+🎬 Watch the full walkthrough here:
+[Insert YouTube or Streamable link]
+
+👋 Author
+Vidar – Deakin University
+SIT102 Introduction to Programming – H1 "Something Awesome"
+
+📃 License
+MIT License
+(or replace with your preferred license)
 
 
