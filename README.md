@@ -54,7 +54,8 @@ This project was created for the High Distinction task **"Something Awesome"** i
 
 1. **Install SplashKit**: [https://www.splashkit.io/](https://www.splashkit.io/)
 2. **Compile with:**
-   ```bash clang++ main.cpp fighter.cpp fight.cpp storage.cpp utilities.cpp -l SplashKit -o mma
+   ```bash
+   clang++ main.cpp fighter.cpp fight.cpp storage.cpp utilities.cpp -l SplashKit -o mma
 
 
 
