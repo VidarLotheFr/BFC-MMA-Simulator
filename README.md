@@ -1,12 +1,12 @@
 # 🥋 BFC MMA Simulator
 
-**BFC MMA** (*Brutal Fighting Championship*) is a terminal-based career simulator for MMA fighters, built in C++ using SplashKit. Players can create and train fighters, simulate tournaments, track wins, manage XP, and progress through a full fight career system — complete with encrypted save files and a dynamic leaderboard.
+**BFC MMA**  is a terminal-based career simulator for MMA fighters, built in C++ using SplashKit. Players can create and train fighters, simulate tournaments, track wins, manage XP, and progress through a full fight career system, complete with encrypted save files and a dynamic leaderboard.
 
 ---
 
 ## 🎯 Purpose
 
-This project was created for the High Distinction task **"Something Awesome"** in **SIT102 – Introduction to Programming** at Deakin University. Its goal is to demonstrate creative design, modular programming, file encryption, and advanced logic beyond the standard curriculum.
+This project was created for the High Distinction task **"Something Awesome"** in **SIT102** at Deakin University. Its goal is to demonstrate creative design, modular programming, file encryption, and advanced logic beyond the standard curriculum.
 
 ---
 
@@ -55,6 +55,7 @@ This project was created for the High Distinction task **"Something Awesome"** i
 1. **Install SplashKit**: [https://www.splashkit.io/](https://www.splashkit.io/)
 2. **Compile with:**
    ```bash
+
 clang++ main.cpp fighter.cpp fight.cpp storage.cpp utilities.cpp -l SplashKit -o mma
 
 
