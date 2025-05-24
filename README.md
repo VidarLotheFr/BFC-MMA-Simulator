@@ -2,10 +2,6 @@
 
 **BFC MMA**  is a terminal-based career simulator for MMA fighters, built in C++ using SplashKit. Players can create and train fighters, simulate tournaments, track wins, manage XP, and progress through a full fight career system, complete with encrypted save files and a dynamic leaderboard.
 
-<p align="center">
-  <img src="BFC_MMA_SIMULATOR_1280x640.png" width="100%" alt="BFC MMA Simulator Banner">
-</p>
-
 
 ---
 
