@@ -69,15 +69,13 @@ This project was created for the High Distinction task **"Something Awesome"** i
 
 
 📽️ Video Demo
-🎬 Watch the full walkthrough here:
-[Insert YouTube or Streamable link]
+https://youtu.be/A7sN0Ulpnfs
+
 
 👋 Author
 Vidar – Deakin University
-SIT102 Introduction to Programming – H1 "Something Awesome"
+SIT102 Introduction to Programming
 
-📃 License
-MIT License
-(or replace with your preferred license)
+
 
 
