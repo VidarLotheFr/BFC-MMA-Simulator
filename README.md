@@ -69,7 +69,7 @@ This project was created for the High Distinction task **"Something Awesome"** i
 | 🧱 Modular architecture | Separated concerns across `.cpp/.h` files                |
 
 
-##📽️ Video Demo
+📽️ Video Demo
 [![Watch on YouTube]](https://youtu.be/A7sN0Ulpnfs)
 
 
