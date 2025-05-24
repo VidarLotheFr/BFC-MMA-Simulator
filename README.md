@@ -70,7 +70,7 @@ This project was created for the High Distinction task **"Something Awesome"** i
 
 
 📽️ Video Demo
-https://youtu.be/A7sN0Ulpnfs
+[![Watch on YouTube](https://youtu.be/A7sN0Ulpnfs)
 
 
 👋 Author
