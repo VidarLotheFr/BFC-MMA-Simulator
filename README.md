@@ -69,8 +69,11 @@ This project was created for the High Distinction task **"Something Awesome"** i
 | 🧱 Modular architecture | Separated concerns across `.cpp/.h` files                |
 
 
-📽️ Video Demo
-[![Watch on YouTube](https://youtu.be/A7sN0Ulpnfs)
+##📽️ Video Demo
+[![Watch on YouTube](file:///C:/Users/vidar/Downloads/BFC_MMA_SIMULATOR_1280x640.png)](https://youtu.be/A7sN0Ulpnfs)
+
+
+[![Watch on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 👋 Author
