@@ -41,11 +41,17 @@ This project was created for the High Distinction task **"Something Awesome"** i
 ---
 
 ## 📂 File Structure
+
 ├── main.cpp // Program entry point and menu
+
 ├── fighter.cpp/.h // Fighter logic, XP, belts, career system
+
 ├── fight.cpp/.h // Tournament system and fight engine
+
 ├── storage.cpp/.h // Encrypted save/load functionality
+
 ├── utilities.cpp/.h // Input handling, progress bars, formatting
+
 ├── fighters.txt // Encrypted fighter data file
 
 
